@@ -27,3 +27,4 @@ def DisplayTriangle(triangle, n=-1):
 
 DisplayTriangle(PascalTriangle(10))
 
+
