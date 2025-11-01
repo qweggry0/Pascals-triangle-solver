@@ -1,4 +1,5 @@
 # Pascals triangle
+# Iterative Approach
 
 def PascalTriangle(n):
     triangle = [[1, 1]]
@@ -25,3 +26,4 @@ def DisplayTriangle(triangle, n=-1):
 
 
 DisplayTriangle(PascalTriangle(10))
+
